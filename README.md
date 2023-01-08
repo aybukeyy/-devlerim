@@ -1,2 +1,2 @@
-# -devlerim
+# -odevlerim
 algoritma
